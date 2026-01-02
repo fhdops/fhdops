@@ -58,13 +58,13 @@ I’m simplifying my dev setup and modernizing older systems.
 | Tooling | Building automated scheduling and workforce tools |
 | AI Ops | Using LLMs to speed incident response and runbooks | -->
 
----
+<!-- ---
 
 ## 📈 GitHub Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?fhdops=mufreh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?fhdops=mufreh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
-</div>
+  <img src="https://github-readme-stats.vercel.app/api?username=mufreh&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mufreh&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" width="48%" />
+</div> -->
 
 ---
 
